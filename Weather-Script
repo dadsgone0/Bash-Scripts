@@ -1,0 +1,7 @@
+#!bin/bash/
+
+echo Heres your weather report: 
+sleep 3
+curl wttr.in
+sleep 3
+echo Have a great day!
